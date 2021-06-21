@@ -1,0 +1,3 @@
+com\example\kubernetesdemo\kubernetesdemo\controllers\User.class
+com\example\kubernetesdemo\kubernetesdemo\controllers\UserDetailsController.class
+com\example\kubernetesdemo\kubernetesdemo\UserDetailsApplication.class
